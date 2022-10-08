@@ -18,9 +18,8 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
-&nbsp;
-&nbsp;
-&nbsp;
+#hi 
+
 ## Exercise 2: Print the Version of Python :ballot_box_with_check:
 
  Write a Python program to get the Python version you are using.
