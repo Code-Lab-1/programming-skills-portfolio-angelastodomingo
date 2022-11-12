@@ -1,0 +1,13 @@
+places = ['greece', 'france', 'new zealand', 'canada', 'usa']
+
+print("Places I want to visit someday: ")
+print(places)
+
+print("Places I want to visit in order:")
+print(sorted(places))
+
+print("Places I want to visit in reverse order:")
+print(sorted(places, reverse = True))
+
+
+print(places.reverse())

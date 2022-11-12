@@ -1,0 +1,7 @@
+def make_shirt(size, msg):
+    print("This is a " + size + " t-shirt.")
+    print("It says " + msg + "on the front.")
+
+make_shirt('medium', 'Sandy Alex G ')
+
+make_shirt(msg = "God Save The Animals ", size = "small")

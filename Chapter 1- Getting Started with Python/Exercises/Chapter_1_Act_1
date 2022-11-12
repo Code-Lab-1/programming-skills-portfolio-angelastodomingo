@@ -1,0 +1,10 @@
+#Basic python program. I'm creating a short story about a character named Tomie.
+
+character_name = "Tomie" 
+character_age = "18"
+Is_Female = True
+print("There once was a woman named "+ character_name + ", ")
+print("She was "+ character_age + " years old." )
+print(character_name + " thinks she's too mature for her age,")
+character_age = "30"
+print("And "+ character_name+ " wishes to be " + character_age + " instead.")

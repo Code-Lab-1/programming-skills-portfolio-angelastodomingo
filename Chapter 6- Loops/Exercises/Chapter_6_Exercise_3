@@ -1,0 +1,4 @@
+x = "This loop never ends"
+
+while x:
+  print(x)

@@ -1,0 +1,21 @@
+## Class Activity Week 8 
+
+print("The following lines will print each letters of Apple")
+s = "Apple"
+for x in s:
+  print(x)
+
+print("The following lines will print each letters of Banana")
+s = "Banana"
+for x in s:
+  print(x)
+
+print("The following lines will print each letters of Car")
+s = "Car"
+for x in s:
+  print(x) 
+
+print("The following lines will print each letters of Dolphin ")
+s = "Dolphin"
+for x in s:
+  print(x)

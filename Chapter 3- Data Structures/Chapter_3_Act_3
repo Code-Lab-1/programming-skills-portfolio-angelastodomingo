@@ -1,0 +1,6 @@
+#Adding another custom name in the list inputted by the user.
+
+names = ['John', 'Amy', 'Bob', 'Adam']
+x = input()
+names.append (x)
+print(names)

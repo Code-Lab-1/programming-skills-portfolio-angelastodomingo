@@ -1,0 +1,4 @@
+#Printing a specific name from the names list.
+
+names = ["Kirie", "Shouichi", "Matsuo", "Yi", "Qi", "Sam", "Sebastian", "Sandy", "Alex", "Abigail"]
+print(names[5], names[4])

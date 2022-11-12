@@ -1,0 +1,8 @@
+#Updating the student's information. 
+
+student = {
+    "Name": "Sally" , "Age" : 14 , "Class" : "Psychology" , "Gender": "Female" , "Location" : "Tennessee",
+}
+
+student.update({"GPA":"3.6"})
+print(student)

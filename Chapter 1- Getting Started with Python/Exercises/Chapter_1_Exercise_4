@@ -2,4 +2,6 @@ dialogue = "I'm getting wound up"
 dialogue2 = "Spirals"
 dialogue3 = "This town is contaminated by spirals"
 full_dialogue = dialogue + "..." + dialogue2 + "..." + dialogue3 + "..."
-print(full_dialogue)
+print(full_dialogue) 
+
+
