@@ -1,3 +1,5 @@
+#Checking if a student passed their classes or not. 
+
 marks = int(input("Enter Your Marks: "))
 if marks >= 100: 
    print("You passed with high honors.")

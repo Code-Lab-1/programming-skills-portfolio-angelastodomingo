@@ -6,5 +6,3 @@ while sandwich_orders:
     print("I'm working on your " + unfinished_orders)
     finished_sandwiches.append(unfinished_orders)
 
-for i in sandwich_orders:
-    print("The following line will print each letter of", i)

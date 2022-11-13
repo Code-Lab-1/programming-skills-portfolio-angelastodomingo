@@ -1,0 +1,13 @@
+#Making a ticketing system for 5 passengers and outputting the total price for their tickets based on their ages. Children under 3 years of age get free tickets. 
+
+total = 0
+passenger = 0
+while passenger < 5:
+   age=int(input())
+   passenger +=1
+   if age <= 3:
+      continue 
+   elif age>3:
+      ticket = 100
+      total  += ticket
+print(total)
