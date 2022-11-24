@@ -1,0 +1,6 @@
+#Printing a fictional student's information.
+
+student = {
+    "Name": "Sally" , "Age" : 14 , "Class" : "Psychology" , "Gender": "Female" , "Location" : "Tennessee",
+}
+print(student)

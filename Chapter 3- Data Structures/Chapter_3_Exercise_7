@@ -1,0 +1,33 @@
+places = ['greece', 'france', 'new zealand', 'canada', 'usa']
+
+print("Original order ")
+print(places)
+
+print("Alphabetical ")
+print(sorted(places))
+
+print("Original order ")
+print(places)
+
+print("Reverse alphabetical :")
+print(sorted(places, reverse = True))
+
+print("Original order  ")
+print(places)
+
+print("Reversed: ")
+places.reverse()
+print(places)
+
+print("Original order ")
+places.reverse()
+print(places)
+
+print("Alphabetical")
+places.sort()
+print(places)
+
+print("Reverse alphabetical")
+places.sort(reverse=True)
+print(places)
+

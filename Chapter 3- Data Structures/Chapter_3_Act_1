@@ -1,0 +1,4 @@
+#Making a list that starts at 11.
+
+sq = [0, 1, 4, 9, 11, 29, 34, 56, 98]
+print(sq[4:])

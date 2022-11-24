@@ -1,0 +1,7 @@
+friends = ['Kirie', 'Shouichi', 'Matsuo', 'Sekino', 'Azami']
+
+print("Hey " + friends[0] + ", we should all hang out again. Same time, same place.")
+print("Hey " + friends[1] + ", we should all hang out again. Same time, same place.")
+print("Hey " + friends[2] + ", we should all hang out again. Same time, same place.")
+print("Hey " + friends[3] + ", we should all hang out again. Same time, same place.")
+print("Hey " + friends[4] + ", we should all hang out again. Same time, same place.")

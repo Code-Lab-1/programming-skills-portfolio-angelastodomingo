@@ -1,0 +1,7 @@
+age = int(input())
+if age < 3:
+  print("The baby's ticket is free.")
+elif age < 12: 
+  print("The ticket price is $10.")
+else:
+  print("The ticket price is $15")

@@ -1,0 +1,6 @@
+#Addition calculator.
+
+x = input("Addend: ")
+y = input("Addend: ")
+sum = float(x) + float(y)
+print("Sum: " + str(sum))

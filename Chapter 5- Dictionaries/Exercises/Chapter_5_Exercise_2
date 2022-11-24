@@ -1,0 +1,7 @@
+glossary = {
+
+'Dictionary': 'An ordered collection of items.', 'Print function': 'Displays the specified message to the screen.', 'Lists': 'Used to store multiple items in a single variable.', 'if statement': 'Used for decision-making operations.', 'Variable': 'Containers for storing data values.',  
+
+}
+
+print(glossary)

@@ -1,0 +1,6 @@
+#Saying hello to a user using functions. 
+
+def say_hello(name):
+    print ("Hello " + name)
+
+say_hello("Casey")

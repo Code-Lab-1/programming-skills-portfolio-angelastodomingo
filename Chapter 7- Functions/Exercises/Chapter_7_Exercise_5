@@ -1,0 +1,6 @@
+def describe_city(city, country = 'Italy'):
+    print(city + " is in " + country)
+describe_city('Milan')
+describe_city('Florence')
+describe_city('Manila', 'The Philippines')
+

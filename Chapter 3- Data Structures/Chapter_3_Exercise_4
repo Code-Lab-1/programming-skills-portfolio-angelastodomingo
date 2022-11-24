@@ -1,0 +1,7 @@
+invite = ['Alex G', 'Sufjan Stevens', "Dana Foote"]
+
+print("Hey there, " + invite[0] + ". It would be cool if you could come to my dinner party tomorrow. " + invite [1] + " and " + invite [2] + " will be there too.")
+
+print("Hey there, " + invite[1] + ". It would be cool if you could come to my dinner party tomorrow. " + invite [0] + " and " + invite [2] + " will be there too.")
+
+print("Hey there, " + invite[2] + ". It would be cool if you could come to my dinner party tomorrow. " + invite [1] + " and " + invite [0] + " will be there too.")

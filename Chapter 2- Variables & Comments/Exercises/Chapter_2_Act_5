@@ -1,0 +1,15 @@
+#Printing a student's information. 
+
+name = "Gianna S.Coli"
+age = 21
+contact_number = "2015924019"
+email = "ilovedadscoli@yahoo.com"
+department = "Economics"
+level = "Masters"
+
+print(name)
+print(age)
+print(contact_number)
+print(email)
+print(department)
+print(level)

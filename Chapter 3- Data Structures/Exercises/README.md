@@ -15,10 +15,6 @@ Store the names of a few of your friends in a list called names. Print each pers
 
 
 
-
-&nbsp;
-&nbsp;
-
 ## Exercise 2: Greetings :ballot_box_with_check:
 
 Start with the list you used in Exercise 1, but instead of just
@@ -35,18 +31,14 @@ personalized with the person’s name.
 
 ## Exercise 3: Your Own List :ballot_box_with_check:
 
-Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list
-
-to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
+Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
 
 &nbsp;
 &nbsp;
 
 ## Exercise 4: Guest List :ballot_box_with_check:
 
-If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d
-
-like to invite to dinner. Then use your list to print a message to each person, invitingthem to dinner.
+If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
 &nbsp;
 &nbsp;
@@ -84,7 +76,7 @@ You just found out that your new dinner table won’t arrive in time for the din
 Think of at least five places in the world you’d like to visit.
 •	 Store the locations in a list. Make sure the list is not in alphabetical order.
 
-•	 Print your list in its original order. Don’t worry about printing the list neatly,just print it as a raw Python list.
+•	 Print your list in its original order. Don’t worry about printing the list neatly, just print it as a raw Python list.
 
 •	 Use sorted() to print your list in alphabetical order without modifying the actual list.
 

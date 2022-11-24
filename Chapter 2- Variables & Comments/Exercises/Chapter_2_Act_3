@@ -1,0 +1,16 @@
+#Highschool grade calculator. 
+
+english = input("English marks: ")
+science = input("Science marks: ")
+mathematics = input("Mathematics marks: ")
+history = input("History marks: ")
+gymnastics = input("Gymnastics marks: ")
+
+marks_obtained = float(english)+float(science)+float(mathematics)+float(history)+float(gymnastics)
+print("Average: " + str(marks_obtained))
+
+total_marks = 500
+average = (449/5)
+print("Total marks: " + str(average))
+
+

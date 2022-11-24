@@ -1,0 +1,13 @@
+name = "\tAlex Giannascoli\n"
+
+print("\nA person's name")
+print(name)
+
+print("\nUsing strip():")
+print(name.strip())
+
+print("\nUsing rstrip():")
+print(name.rstrip())
+
+print("\nUsing lstrip():")
+print(name.lstrip())

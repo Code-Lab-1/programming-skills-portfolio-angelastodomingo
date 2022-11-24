@@ -1,0 +1,16 @@
+glossary = {
+
+'Dictionary = ': 'An ordered collection of items.', 
+'Print function = ': 'Displays the specified message to the screen.', 
+'Lists = ': 'Used to store multiple items in a single variable.', 
+'if statement = ': 'Used for decision-making operations.', 
+'Variable = ': 'Containers for storing data values.',  
+'For loop = ': 'An iterating function.',
+'Syntax error = ': 'Occurs when the interpreter encounters an invalid syntax in code.', 
+'Boolean type = ': 'Used to represent the truth value of an expression.', 
+'String = ': 'Collection of alphabets, words or other characters.',
+
+}
+
+for word, definition in glossary.items():
+    print("\n" + word.title() + definition)

@@ -1,0 +1,5 @@
+modes = ['train', 'car', 'bus']
+
+print("Riding the " + modes [0] + " gives me a sense of comfort.")
+print("A " + modes [1] + "'s the way to go, though.")
+print("But listening to Alex G's music on the " + modes[2] + " is pretty cool, too.")

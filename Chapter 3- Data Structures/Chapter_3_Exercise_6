@@ -1,0 +1,20 @@
+invite = ['Alex G', 'Sufjan Stevens', "Dana Foote"]
+
+invite.remove("Dana Foote")
+invite.append("Seth Macfarlane")
+
+print("Hi everyone. It seems like I can only invite 2 people to my dinner party tomorrow, since my new dinner table won't arrive until monday comes.")
+
+print("Hi, " + invite[1] + ". I'm afraid you cannot come to my dinner party tomorrow, as I only have space for 2 people. I promise to make it up to you next time.")
+
+invite.pop(1)
+print(invite)
+
+print("Hello, " + invite[0] + ". I'm just letting you know that you're still invited to come to my dinner party tomorrow. See you there!")
+
+print(invite)
+
+print("Hello, " + invite[1] + ". I'm just letting you know that you're still invited to come to my dinner party tomorrow. See you there!")
+
+del invite
+print(invite)

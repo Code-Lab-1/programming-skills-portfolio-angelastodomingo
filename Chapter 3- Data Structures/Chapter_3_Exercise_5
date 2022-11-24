@@ -1,0 +1,13 @@
+invite = ['Alex G', 'Sufjan Stevens', "Dana Foote"]
+
+invite.remove("Dana Foote")
+invite.append("Seth Macfarlane")
+
+print(invite)
+
+print("Good evening, " + invite[0] + ". Hope you can still make it for dinner tomorrow. It would be a shame if you missed it!")
+
+print("Good evening, " + invite[1] + ". Hope you can still make it for dinner tomorrow. It would be a shame if you missed it!")
+
+print("Good evening, " + invite[2] + ". Hope you can still make it for dinner tomorrow. It would be a shame if you missed it!")
+

@@ -1,0 +1,6 @@
+#Checking if a person is 18 or at least has money over $100. 
+age = 15
+money = 500
+
+if age > 18 or money > 100:
+  print("Welcome")

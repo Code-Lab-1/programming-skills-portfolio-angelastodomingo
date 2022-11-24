@@ -1,0 +1,8 @@
+person = {
+    "First name": "Alex", "Last name": "Giannascoli", "Age" : 29 , "State": "Pennsylvania" 
+} 
+print(person["First name"])
+print(person["Last name"])
+print(person["Age"])
+print(person["State"])
+

@@ -1,0 +1,6 @@
+#Creating a function with a default argument. 
+def student_allowances(name, allowance=500):
+    print("This is", name, "'s allowance: ", allowance)
+
+student_allowances("Poppy", 1000)
+student_allowances("Matteo")
