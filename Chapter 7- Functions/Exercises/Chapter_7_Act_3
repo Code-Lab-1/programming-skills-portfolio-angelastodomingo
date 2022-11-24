@@ -1,8 +1,6 @@
-#Write a python function to check whether a number falls in a given range.
+#Creating a function with a default argument. 
+def student_allowances(name, allowance=500):
+    print("This is", name, "'s allowance: ", allowance)
 
-def test_range(n):
-    if n in range(2,9):
-        print( " %s is in the range"%str(n))
-    else :
-        print("The number is outside the given range.")
-test_range(9)
+student_allowances("Poppy", 1000)
+student_allowances("Matteo")

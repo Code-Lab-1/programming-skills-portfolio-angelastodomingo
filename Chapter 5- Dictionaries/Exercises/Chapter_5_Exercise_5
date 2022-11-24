@@ -2,32 +2,23 @@ pets = []
 
 pet = {
     'animal kind': 'ginger cat',
-    'name': 'garfield',
     'owner': 'john',
-    'weight': 99,
-    'eats': 'everything',
 }
 pets.append(pet)
 
 pet = {
     'animal kind': 'great dane',
-    'name': 'scooby doo',
     'owner': 'shaggy',
-    'weight': 49,
-    'eats': 'scooby snacks',
 }
 pets.append(pet)
 
 pet = {
     'animal kind': 'owl',
-    'name': 'owlowiscious',
     'owner': 'twilight',
-    'weight': 20,
-    'eats': 'seeds',
 }
 pets.append(pet)
 
 for pet in pets:
-    print("\nInformation about " + pet['name'].title() + ":")
+    print("\nInformation about " + pet['animal kind'].title() + ":")
     for key, value in pet.items():
         print("\t" + key + ": " + str(value))
