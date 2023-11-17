@@ -1,0 +1,7 @@
+#Printing student items. 
+
+student = {
+    "Name": "Sally" , "Age" : 14 , "Class" : "Psychology" , "Gender": "Female" , "Location" : "Tennessee",
+}
+
+print(student.items())

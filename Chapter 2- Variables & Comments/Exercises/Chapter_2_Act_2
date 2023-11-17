@@ -1,0 +1,4 @@
+#I'm replacing a word from a phrase. 
+
+phrase = "Uzumaki City"
+print(phrase.replace("Uzumaki", "Spiral"))

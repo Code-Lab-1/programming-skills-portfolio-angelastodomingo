@@ -1,0 +1,3 @@
+#Printing lyrics from a song. 
+
+print("When I was sixteen, I was dead.\n\tI was sick from being underfed.\n\t\tWhen I was twelve, all I did was cry.\n\t\t\tI saw my favorite band burn alive.")

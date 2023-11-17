@@ -1,0 +1,4 @@
+budget = 50
+price = 6
+
+print(budget/price)

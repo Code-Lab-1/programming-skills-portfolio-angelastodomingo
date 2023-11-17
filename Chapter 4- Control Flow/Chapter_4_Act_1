@@ -1,0 +1,11 @@
+#Checking if a student passed their classes or not. 
+
+marks = int(input("Enter Your Marks: "))
+if marks >= 100: 
+   print("You passed with high honors.")
+elif marks >= 90: 
+   print ("You passed with merit.")
+elif marks >= 75:
+   print("You passed.")
+else:
+    print("You failed.")

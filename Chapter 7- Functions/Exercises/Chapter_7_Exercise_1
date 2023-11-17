@@ -1,0 +1,5 @@
+def display_message(txt):
+    print("I learned how to display this " + txt)
+
+display_message("message.")
+
